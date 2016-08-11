@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothTestApp</string>
+    <string name="button_send">Send</string>
+    <string name="button_connect">Connect</string>
+    <string name="not_connected">Status: Not connected</string>
+    <string name="notvalid">Not valid</string>
+</resources>
